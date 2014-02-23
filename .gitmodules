@@ -1,0 +1,6 @@
+[submodule "themes/pure"]
+	path = themes/pure
+	url = git://github.com/sbadia/pure.git
+[submodule "plugins"]
+	path = plugins
+	url = git://github.com/getpelican/pelican-plugins.git
