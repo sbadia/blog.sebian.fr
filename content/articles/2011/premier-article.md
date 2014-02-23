@@ -2,7 +2,7 @@ Title: Premier article !
 Date: 2011-09-24 01:08
 Author: Sebastien Badia
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
-Category: Lab
+Category: Seb
 Tags: EGI, France Grilles, gLite, Grid5000
 Slug: premier-article
 Modified: 2014-02-23 17:07
