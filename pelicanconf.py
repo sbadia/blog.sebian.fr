@@ -16,6 +16,8 @@ THEME = 'themes/pure'
 from subprocess import check_output
 VERSION_HASH = check_output(['git', 'rev-parse', '--short', 'HEAD']).strip()
 
+# http://pygments.org/docs/lexers/#lexers-for-various-shells
+
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
