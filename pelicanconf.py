@@ -41,7 +41,13 @@ SOCIAL = (('twitter-square', 'http://twitter.com/sebastienbadia'),
 	 )
 
 PLUGIN_PATH = 'plugins'
-PLUGINS = ['gravatar']
+PLUGINS = ['gravatar', 'neighbors']
+
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/robots.txt': {'path': 'robots.txt'},
+        }
 
 DEFAULT_PAGINATION = 10
 

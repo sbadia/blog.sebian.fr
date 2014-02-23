@@ -31,9 +31,6 @@ html: clean $(OUTPUTDIR)/index.html
 
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	mkdir -p $(OUTPUTDIR)/_lib
-	cp -r ext/* $(OUTPUTDIR)/_lib
-	cp favicon.ico $(OUTPUTDIR)/
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || find $(OUTPUTDIR) -mindepth 1 -delete
@@ -54,9 +51,6 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	mkdir -p $(OUTPUTDIR)/_lib
-	cp -r ext/* $(OUTPUTDIR)/_lib
-	cp favicon.ico $(OUTPUTDIR)/
 
 ssh_upload: publish
 	scp -r $(OUTPUTDIR)/* $(SSH_HOST):$(SSH_TARGET_DIR)
