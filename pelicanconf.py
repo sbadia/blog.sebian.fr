@@ -29,8 +29,10 @@ ARTICLE_SAVE_AS = '{slug}/index.html'
 
 # Blogroll
 MENUITEMS = (('Home', 'http://pelican.sebian.fr'),
-	    ('Ldn', "http://ldn-fai.net"),
-	    ('Asrall', "http://planet.asrall.fr"),)
+	    ('Ldn', 'http://ldn-fai.net'),
+	    ('Nybi.cc', 'http://nybi.cc/'),
+	    ('Asrall', 'http://planet.asrall.fr'),
+        )
 
 # Social widget
 # http://fontawesome.io/icons/ (just remove « fa- »
