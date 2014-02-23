@@ -30,7 +30,7 @@ ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 
 # Blogroll
-MENUITEMS = (('Home', 'http://pelican.sebian.fr'),
+MENUITEMS = (('Archives', 'http://pelican.sebian.fr/archives.html'),
 	    ('Ldn', 'http://ldn-fai.net'),
 	    ('Nybi.cc', 'http://nybi.cc/'),
 	    ('Asrall', 'http://planet.asrall.fr'),
