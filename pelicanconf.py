@@ -23,6 +23,10 @@ TRANSLATION_FEED_ATOM = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
+# Retro-compat with my Old WP setup
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+
 # Blogroll
 MENUITEMS = (('Home', 'http://pelican.sebian.fr'),
 	    ('Ldn', "http://ldn-fai.net"),
