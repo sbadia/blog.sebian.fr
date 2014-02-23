@@ -33,9 +33,11 @@ MENUITEMS = (('Home', 'http://pelican.sebian.fr'),
 	    ('Asrall', "http://planet.asrall.fr"),)
 
 # Social widget
+# http://fontawesome.io/icons/ (just remove « fa- »
 SOCIAL = (('twitter-square', 'http://twitter.com/sebastienbadia'),
           ('github', 'http://github.com/sbadia'),
           ('linkedin', 'http://fr.linkedin.com/in/sbadia'),
+          ('rss', 'http://pelican.sebian.fr/feeds/all.rss.xml'),
 	 )
 
 PLUGIN_PATH = 'plugins'
