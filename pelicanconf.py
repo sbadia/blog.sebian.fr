@@ -7,7 +7,7 @@ AUTHOR_EMAIL = u'seb@sebian.fr'
 SITENAME = u"Seb's Peregrinations"
 SITEURL = 'http://pelican.sebian.fr'
 COVER_IMG_URL = 'http://badia.fr/img/ecrins.jpg'
-#TAGLINE = 'foo'
+TAGLINE = 'DevOp & NetNeutrality'
 #PROFILE_IMAGE_URL = 'http://badia.fr/img/sbadia.jpg'
 
 TIMEZONE = 'Europe/Paris'
