@@ -1,7 +1,7 @@
 Title: Vi Vi Vi l'éditeur du daemon ;)
 Date: 2010-05-10 22:11
 Author: Sebastien Badia
-About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
+About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Supervision, Tips
 Slug: vi-vi-vi-lediteur-du-daemon

@@ -1,7 +1,7 @@
 Title: Git over Ssh
 Date: 2010-10-23 12:07
 Author: Sebastien Badia
-About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
+About_author: ASRALL Student
 Category: Tips
 Tags: git, ssh
 Slug: git-over-ssh
