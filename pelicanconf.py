@@ -6,7 +6,7 @@ AUTHOR = u'seb'
 AUTHOR_EMAIL = u'seb@sebian.fr'
 SITENAME = u"Seb's Peregrinations"
 SITEURL = 'http://blog.sebian.fr'
-COVER_IMG_URL = 'http://badia.fr/img/ecrins.jpg'
+COVER_IMG_URL = 'http://blog.sebian.fr/images/ecrins.jpg'
 TAGLINE = 'DevOp & NetNeutrality'
 #PROFILE_IMAGE_URL = 'http://badia.fr/img/sbadia.jpg'
 
