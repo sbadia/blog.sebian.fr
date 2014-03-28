@@ -2,7 +2,7 @@ Title: Debian et CACert.org
 Date: 2014-03-28 00:31
 Author: Sebastien Badia
 About_author: Cloud engineer @eNovance, Puppet addict and Net Neutrality defender.
-Category: Tips
+Category: Asrall
 Tags: Debian, Certs, CACert.org
 Slug: debian-cacert
 
