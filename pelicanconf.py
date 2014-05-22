@@ -13,6 +13,8 @@ TAGLINE = 'DevOp & NetNeutrality'
 TIMEZONE = 'Europe/Paris'
 THEME = 'themes/pure'
 
+MD_EXTENSIONS = ['headerid']
+
 from subprocess import check_output
 VERSION_HASH = check_output(['git', 'rev-parse', '--short', 'HEAD']).strip()
 
@@ -31,10 +33,10 @@ ARTICLE_SAVE_AS = '{slug}/index.html'
 
 # Blogroll
 MENUITEMS = (('Archives', 'http://blog.sebian.fr/archives.html'),
-	    ('Ldn', 'http://ldn-fai.net'),
-	    ('Nybi.cc', 'http://nybi.cc/'),
-	    ('Asrall', 'http://planet.asrall.fr'),
-        )
+             ('Ldn', 'http://ldn-fai.net'),
+             ('Nybi.cc', 'http://nybi.cc/'),
+             ('Asrall', 'http://planet.asrall.fr'),
+            )
 
 # Social widget
 # http://fontawesome.io/icons/ (just remove « fa- »
@@ -42,7 +44,7 @@ SOCIAL = (('twitter-square', 'http://twitter.com/sebastienbadia'),
           ('github', 'http://github.com/sbadia'),
           ('linkedin', 'http://fr.linkedin.com/in/sbadia'),
           ('rss', 'http://blog.sebian.fr/feeds/all.rss.xml'),
-	 )
+         )
 
 PLUGIN_PATH = 'plugins'
 PLUGINS = ['gravatar', 'neighbors']
@@ -51,7 +53,7 @@ STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/robots.txt': {'path': 'robots.txt'},
-        }
+    }
 
 DEFAULT_PAGINATION = 10
 
