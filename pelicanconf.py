@@ -13,8 +13,6 @@ TAGLINE = 'DevOp & NetNeutrality'
 TIMEZONE = 'Europe/Paris'
 THEME = 'themes/pure'
 
-MD_EXTENSIONS = ['headerid']
-
 from subprocess import check_output
 VERSION_HASH = check_output(['git', 'rev-parse', '--short', 'HEAD']).strip()
 
