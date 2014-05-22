@@ -43,7 +43,7 @@ Et pour le wrapper sur nottoomuch (ntmw.sh):
     $HOME/.mutt/nottoomuch-addresses.sh "$1" \
       |sed -s 's/\(.*\) \(<.*\)/\2\   \1/'\
       |sed -s 's/\"//g'\
-      |sed -s '/buzz+.*/d'\>)'
+      |sed -s '/buzz+.*/d'\
 
 Il ne reste plus qu'a lier *nottoomuch-addresses.sh --update* dans votre config offlineimap (en hook), et le tour est joué.
 
