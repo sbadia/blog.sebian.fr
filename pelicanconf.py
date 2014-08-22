@@ -44,7 +44,7 @@ SOCIAL = (('twitter-square', 'http://twitter.com/sebastienbadia'),
           ('rss', 'http://blog.sebian.fr/feeds/all.rss.xml'),
          )
 
-PLUGIN_PATH = 'plugins'
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ['gravatar', 'neighbors']
 
 STATIC_PATHS = ['images', 'extra']
