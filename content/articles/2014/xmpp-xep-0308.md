@@ -2,7 +2,7 @@ Title: XMPP et la XEP-0308 (Last message correction)
 Date: 2014-12-30 23:25
 Author: Sebastien Badia
 About_author: Engineer @eNovance, Puppet addict and Net Neutrality defender.
-Category: Tips
+Category: Asrall
 Tags: XMPP, XEP, Tips
 Slug: xmpp-xep-0308
 
