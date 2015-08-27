@@ -1,5 +1,5 @@
 Title: Enceinte portable bluetooth et pulseaudio
-Date: 2015-07-30 07:00
+Date: 2015-08-26 07:00
 Author: Sebastien Badia
 About_author: Engineer @RedHat, Puppet addict and Net Neutrality defender.
 Category: Asrall
