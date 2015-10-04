@@ -40,6 +40,8 @@ MENUITEMS = (('Archives', 'http://blog.sebian.fr/archives.html'),
 # Social widget
 # http://fontawesome.io/icons/ (just remove « fa- »
 SOCIAL = (('twitter-square', 'https://twitter.com/sebastienbadia'),
+          ('instagram', 'https://instagram.com/sebybi'),
+          ('paperclip', 'http://sebastien.badia.fr'),
           ('github', 'https://github.com/sbadia'),
           ('linkedin', 'https://fr.linkedin.com/in/sbadia'),
           ('rss', 'http://blog.sebian.fr/feeds/all.rss.xml'),
