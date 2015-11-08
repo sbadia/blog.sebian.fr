@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'seb'
 AUTHOR_EMAIL = u'seb@sebian.fr'
 SITENAME = u"Seb's Peregrinations"
-SITEURL = 'http://blog.sebian.fr'
-COVER_IMG_URL = 'http://blog.sebian.fr/images/ecrins.jpg'
+SITEURL = '//blog.sebian.fr'
+COVER_IMG_URL = '//blog.sebian.fr/images/ecrins.jpg'
 TAGLINE = 'DevOp & NetNeutrality'
 #PROFILE_IMAGE_URL = 'http://badia.fr/img/sbadia.jpg'
 
@@ -31,9 +31,10 @@ ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 
 # Blogroll
-MENUITEMS = (('Archives', 'http://blog.sebian.fr/archives.html'),
+MENUITEMS = (('Archives', '//blog.sebian.fr/archives.html'),
              ('Ldn', 'http://ldn-fai.net'),
-             ('Nybi.cc', 'http://nybi.cc/'),
+             ('FFDN', 'http://www.ffdn.org/'),
+             ('Gitoyen', 'http://gitoyen.net/'),
              ('Asrall', 'http://planet.asrall.fr'),
             )
 
@@ -44,7 +45,7 @@ SOCIAL = (('twitter-square', 'https://twitter.com/sebastienbadia'),
           ('paperclip', 'http://sebastien.badia.fr'),
           ('github', 'https://github.com/sbadia'),
           ('linkedin', 'https://fr.linkedin.com/in/sbadia'),
-          ('rss', 'http://blog.sebian.fr/feeds/all.rss.xml'),
+          ('rss', '//blog.sebian.fr/feeds/all.rss.xml'),
          )
 
 PLUGIN_PATHS = ['plugins']
