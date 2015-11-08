@@ -10,7 +10,7 @@ Une des principales tâches d'un admin sys/net réside dans la capacité à diag
 
 Cela n'est bien entendu pas spécifique à l'informatique (voir [medical diagnosis](http://en.wikipedia.org/wiki/Medical_diagnosis)).
 
-![linuxobservabilitytools](http://blog.sebian.fr/images/linux_observability_tools.png)
+![linuxobservabilitytools](//blog.sebian.fr/images/linux_observability_tools.png)
 
 Les outils permettant d'arriver à une solution et la/les méthode(s) de résolution sont souvent les mêmes, ils passent par :
 

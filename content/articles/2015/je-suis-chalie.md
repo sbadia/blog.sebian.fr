@@ -5,6 +5,6 @@ About_author: Engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Slug: nous-sommes-charlie
 
-![Nous Sommes Charlie](http://blog.sebian.fr/images/charliehebdo.jpg)
+![Nous Sommes Charlie](//blog.sebian.fr/images/charliehebdo.jpg)
 
 `#JeSuisCharlie` `#NousSommesCharlie`
