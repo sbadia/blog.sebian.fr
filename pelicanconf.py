@@ -7,7 +7,7 @@ AUTHOR_EMAIL = u'seb@sebian.fr'
 SITENAME = u"Seb's Peregrinations"
 SITEURL = '//blog.sebian.fr'
 COVER_IMG_URL = '//blog.sebian.fr/images/ecrins.jpg'
-TAGLINE = 'DevOp & NetNeutrality'
+TAGLINE = 'Neutralité du net et chocolat'
 #PROFILE_IMAGE_URL = 'http://badia.fr/img/sbadia.jpg'
 
 TIMEZONE = 'Europe/Paris'
@@ -32,10 +32,10 @@ ARTICLE_SAVE_AS = '{slug}/index.html'
 
 # Blogroll
 MENUITEMS = (('Archives', '//blog.sebian.fr/archives.html'),
-             ('Ldn', 'http://ldn-fai.net'),
+             ('LDN', 'http://ldn-fai.net'),
              ('FFDN', 'http://www.ffdn.org/'),
              ('Gitoyen', 'http://gitoyen.net/'),
-             ('Asrall', 'http://planet.asrall.fr'),
+             ('ASRALL', 'http://planet.asrall.fr'),
             )
 
 # Social widget
