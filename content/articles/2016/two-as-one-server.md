@@ -108,13 +108,13 @@ dimensionner sa machine en conséquence car elle accueille alors pas deux
 full-views, pas 3 mais oui c'est bien 4 full-view mesdames et messieurs! (deux
 en IPv6 et deux en IPv4).
 
-      :::shell
-      bird> s mem
-      BIRD memory usage
-      Routing tables:    172 MB
-      Route attributes:  125 MB
-      ROA tables:       8680  B
-      Protocols:         124 kB
-      Total:             297 MB
+    :::shell
+    bird> s mem
+    BIRD memory usage
+    Routing tables:    172 MB
+    Route attributes:  125 MB
+    ROA tables:       8680  B
+    Protocols:         124 kB
+    Total:             297 MB
 
 Niveau processus, 320m en virtuel et 310m en résidentiel
