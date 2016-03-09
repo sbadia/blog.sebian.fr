@@ -86,7 +86,7 @@ popd
 ```
 
 Qu'il suffit de lancer comme ceci (pour l'exemple je génère un certificate
-asral.fr avec comme domaines gérés asrall.fr et planet.asrall.fr (</pub>))
+asral.fr avec comme domaines gérés asrall.fr et planet.asrall.fr (pub))
 
 ```bash
 $ bash bootstrap-letsencrypt.sh asrall asrall.fr 'DNS:asrall.fr,DNS:planet.asrall.fr'
