@@ -13,8 +13,8 @@ Bon ok, on arrête tout de suite la similitude scabreuse…
 Nous n'avons jamais trop communiqué sur ce sujet (si ce n'est dans nos
 comptes-rendus de réunion, ou d'assemblé générale), cette configuration n'est
 maintenant plus d'actualité puisque [Alsace Réseau Neutre](http://arn-fai.net/)
-vole maintenant de ses propres ailes et même bien mieux, ils disposent d'un
-quart de baie en data center!
+vole maintenant de ses propres ailes et même bien mieux, ils disposent d'une
+demi baie en data center!
 
 # Introduction
 
