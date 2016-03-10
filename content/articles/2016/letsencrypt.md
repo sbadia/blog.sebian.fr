@@ -8,20 +8,19 @@ Slug: letsencrypt
 
 ![Logo Let's Encrypt](//letsencrypt.org/images/letsencrypt-logo-horizontal.svg)
 
-Voila 1 million de certificats [Let's Encrypt](//letsencrypt.org/) délivrés (les certificats délivrés par [Let's Encrypt](https://crt.sh/?Identity=%25&iCAID=7395)); La littérature sur le sujet ne manque pas, mais je vais quand même en apporter une de plus, pour la partie compilation :-)
+Voilà 1 million de certificats [Let's Encrypt](//letsencrypt.org/) délivrés (les certificats délivrés par [Let's Encrypt](https://crt.sh/?Identity=%25&iCAID=7395)); La littérature sur le sujet ne manque pas, mais je vais quand même en apporter une de plus, pour la partie compilation :-)
 
-Pour rappel, Let's Encrypt, c'est un projet porté par l'Internet Security Research Group (ISRG), qui vise au automatiser et rendre accessible à tous des certificats SSL de manière ouverte et gratuite.
+Pour rappel, Let's Encrypt, est un projet porté par l' « Internet Security Research Group » (ISRG), qui vise à automatiser, rendre accessible à tous, de manière ouverte et gratuite, des certificats SSL
 
 # Génération
 
-Nous allons ici, ne pas utiliser le client officiel; Principalement parce qu'il intègre trop de fonctionnalités (serveur web intégré), mais plus parce qu'il ne réponds pas vraiment à mes besoins ici (arbo flexible, et que c'est plus facile à lire un script de 200 lignes qu'un énorme client…)
+Nous allons ici, ne pas utiliser le client officiel; Principalement parce qu'il intègre trop de fonctionnalités (serveur web intégré, …), mais aussi parce qu'il ne réponds pas vraiment aux besoins de cet article (arborescence flexible, serveur nginx, …; et que c'est plus facile à lire un script de 200 lignes qu'un énorme client…)
 
-Le client que nous allons utiliser est donc le [acme-tiny](https://github.com/diafygi/acme-tiny) (écrit en python). Lors de mes pérégrinations sur la toile (oui ok ça fait un peu vieillot, j'aurais pu dire « alors que je surfait sur le web », … :-D), je suis tombé sur ce script [letsencrypt.sh](https://github.com/lukas2511/letsencrypt.sh). Le coté FQDN à un endroit, et rechargement lorsque les AltNames changent sont des features sympa. Après c'est du bash, donc comme vous voulez :)
+Le client que nous allons utiliser est donc le [acme-tiny](https://github.com/diafygi/acme-tiny) (écrit en python). Lors de mes pérégrinations sur la toile (oui ok ça fait un peu vieillot, j'aurais pu dire « alors que je surfais sur le web », … :-D), je suis tombé sur ce script [letsencrypt.sh](https://github.com/lukas2511/letsencrypt.sh). Le coté FQDN à un endroit, et le rechargement lorsque les AltNames changent sont des features appréciables. Après c'est du bash, donc comme vous voulez :)
 
 ## Création des certificats
 
-De mon coté, j'ai opté pour une arborescence de ce type (certificats générés dans
-un répertoire dédié, avec un utilisateur dédié).
+De mon coté, j'ai opté pour une arborescence de ce type (certificats générés dans un répertoire dédié, avec un utilisateur dédié).
 
 ```
 $ mkdir -p /etc/letsencrypt/{certs,challenges,csr,pem,private}
@@ -86,7 +85,7 @@ popd
 ```
 
 Qu'il suffit de lancer comme ceci (pour l'exemple je génère un certificate
-asral.fr avec comme domaines gérés asrall.fr et planet.asrall.fr (pub))
+asral.fr avec comme domaines gérés asrall.fr et planet.asrall.fr (oui de la pub au passage))
 
 ```bash
 $ bash bootstrap-letsencrypt.sh asrall asrall.fr 'DNS:asrall.fr,DNS:planet.asrall.fr'
@@ -104,7 +103,9 @@ Certificate signed!
 ```
 
 Plutôt cool non? Il suffit alors d'adapter la configuration du serveur web, pour
-prendre en compte ces certificats. Et passer tout en HTTPS!
+prendre en compte ces certificats. Et passer tout en HTTPS! (dans notre cas,
+c'est un nginx en reverse proxy qui gère le SSL et forward en HTTP sur une IP
+privée).
 
 ```nginx
 # Asrall
@@ -152,7 +153,7 @@ Pour la génération du dhparams (4096 bits c'est bien)
 openssl dhparam -out dh4096.pem 4096
 ```
 
-Et vous voila donc avec une super config et du https automatisé, on peut aller
+Et vous voila donc avec une super config et du HTTPS automatisé, on peut aller
 faire un tour sur [imirhil](https://tls.imirhil.fr/https/asrall.fr) pour un
 check de la conf et bien sûr pour pouvoir briller en société…
 
