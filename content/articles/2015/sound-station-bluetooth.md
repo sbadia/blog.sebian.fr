@@ -79,3 +79,21 @@ d'exécuter ces commandes :
 ## Conclusion
 
 Have fun avec votre super nouvelle enceinte !
+
+## Edit (2016-04-02)
+
+Hum, j'ai rencontré quelques soucis, notamment l'enceinte qui est pairé mais
+jamais vue en sink dans pulseaudio.
+
+Visiblement ça serait à cause de blueman, mais je n'ai pas vérifié.
+
+    :::bash
+    pactl load-module module-bluetooth-discover
+    pactl load-module module-switch-on-connect
+    # Votre enceinte devrait apparaitre :)
+    pactl list sinks short
+
+### Sources
+
+* <https://unix.stackexchange.com/a/159882>
+* <https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting>
