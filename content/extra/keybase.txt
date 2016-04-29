@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/sbadia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sebian.fr
+  * I am sbadia (https://keybase.io/sbadia) on keybase.
+  * I have a public key with fingerprint 7E43 E9AC BF72 7AB3 CF08  8533 8716
+    CE46 14A4 52D8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid":
+"0101db1990f9e54887378ac3eb5cdd8ef8149104dc17d42221bfa2b1269348dd987d0a",
+            "fingerprint": "7e43e9acbf727ab3cf0885338716ce4614a452d8",
+            "host": "keybase.io",
+            "key_id": "8716ce4614a452d8",
+            "kid":
+"0101db1990f9e54887378ac3eb5cdd8ef8149104dc17d42221bfa2b1269348dd987d0a",
+            "uid": "37bf24600a8933126a2c06a70767e400",
+            "username": "sbadia"
+        },
+        "service": {
+            "hostname": "sebian.fr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1461942792,
+    "expire_in": 157680000,
+    "prev": "3891936d294d598a69d759164394a0ca1034cb754c16adc26b7f92e74ccc48d5",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm9QVFUcXZSgUEZEwhZE4GkoxsD7/96FERHH9Q8MCelqOe1637134QHtbrsL
+suxYZKhRhiLV4IgTbEFmjZoBY+qUBQxDJoWN2KgRMTJQmRIRQQzWe0x+62P3y537
+u+ece86Zezh0riEk4EBkjyni3bzvAi7/pBi2LyuP8FGKA3upVB9VRGY3UoyJ22Mt
+UjGVStEMzWCFAYC2ASLwsixxkgwRRxQBYSwTm8zwgKF5jBgJ8yzLMooNsgrDioDj
+ZYyBLGEaUkmUTbXnE5fTpdo9mqxEeI4AiBSbxEpQ4ZCNlmWB42SJERHhRYaHvMBi
+WSMWONw6QzOnQDdJVh3aTDtYZ+39B/5/9l0yK8dJio3lRZqGMuA4DQVZRItQoiVR
+i0LTOtBNXHb4HNHQbgViFVJ7kihtVqoioteq53hwTxQV2pNtLo3mdDk8DuQo1sYF
+Ho/TnarTPF6njttNFOu/ClZFtWOtQo1RSlxu1WGnUhkNiTyqLsloFQCelQCbRJEy
+p+oiVlVHCJIo09rS3yGlehAZMIATMQt4vFUAMhQBlgTAiDwHeEgjyNAcjxRJ4BEj
+QoxYUZFsgCUSjxDSihEoPdTzdocmLmpGYb6eR823Q0+Ji1B7QqrmLAk0BIQYgh6a
+o/8uQ8gjYQ++3A3LgvvUvQ2Hyyo6+ri4lmZf0Ly5aft9plsNnNG783Y7ml62JkFe
+XPzVFss3I4WXS5Ipkv3o2Eet1HCM4deK8x3HMptPnrKmGV/s/Ktnat2oMfazJeOv
+XyRTo39k9V4Nujr5dzqkIrmVdIofea/kxgzV9PeDRZap7vj63bi3LFwdzHm5XsgI
+PBEXFTNf8MfK8ZPToavRD1fiTOOmrRXOz69vu1a6fOmPp5Xs5X2BC/NWNG6p7s54
+KYeS3zn/rWQ4O3a3s+zLk1UTOzI/DM5om59t+QUdyY8/NxWxxrTw3F5jSge/OTcx
+d9/mrpnqRPVW1fiAfx48JKoDbf0Xcxp6bpvTnjrop6Rn65e27OxOUgMmdp1QcPkC
+z8PpBXszfPfXSmB9YeJwnRCV9cLZmZmnX7UdH/UOVRtv9LbcM6wqrzUfiU64WzeZ
+21Y5eMli/nn1WwHrPnhsJGt46IuOpsdPhd0882ZQcTob9/Xkjqg3KmbCo98+OJIK
+uoLawzd1PXkhLDhkYMWlmNP+8mNpuGlj8sdj64Njn9l3prOjzx2dtau2tsn8ff3o
+hQ0N22butN3JaV3ZGLaoM3J7guF6Izve9H7gYGBepV0ue+0Vl7EuBdbGHPAWraqp
+ac6r+L0puvX42lA2/M/K/GufDFiOHsqteW/xdNF+0+DUp224/WbJUfhbeC/X/ERB
+oTlzfCLlHw==
+=j1ex
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sbadia
+
+==================================================================
