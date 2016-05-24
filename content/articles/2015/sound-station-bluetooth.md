@@ -97,3 +97,17 @@ Visiblement ça serait à cause de blueman, mais je n'ai pas vérifié.
 
 * <https://unix.stackexchange.com/a/159882>
 * <https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting>
+
+## Edit (2016-05-25)
+
+### Sources
+
+Bon, suite à une mise à jour, plus rien ne fonctionnait, mais la solution est
+encore dans le wiki Archilinux (à croire que…).
+
+    :::bash
+    # /etc/bluetooth/audio.conf
+    [General]
+    Enable=Socket
+
+* <https://wiki.archlinux.org/index.php/Bluetooth_headset#Audio_sink_fails>
