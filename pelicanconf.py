@@ -8,7 +8,7 @@ SITENAME = u"Seb's Peregrinations"
 SITEURL = '//blog.sebian.fr'
 COVER_IMG_URL = '//blog.sebian.fr/images/ecrins.jpg'
 TAGLINE = 'Neutralité du net et chocolat'
-#PROFILE_IMAGE_URL = 'http://badia.fr/img/sbadia.jpg'
+# PROFILE_IMAGE_URL = 'http://badia.fr/img/sbadia.jpg'
 
 TIMEZONE = 'Europe/Paris'
 THEME = 'themes/pure'
@@ -36,7 +36,7 @@ MENUITEMS = (('Archives', '//blog.sebian.fr/archives.html'),
              ('FFDN', 'http://www.ffdn.org/'),
              ('Gitoyen', 'http://gitoyen.net/'),
              ('ASRALL', 'http://planet.asrall.fr'),
-            )
+             )
 
 # Social widget
 # http://fontawesome.io/icons/ (just remove « fa- »
@@ -44,9 +44,9 @@ SOCIAL = (('twitter-square', 'https://twitter.com/sebastienbadia'),
           ('instagram', 'https://instagram.com/sebybi'),
           ('paperclip', 'http://sebastien.badia.fr'),
           ('github', 'https://github.com/sbadia'),
-          ('linkedin', 'https://fr.linkedin.com/in/sbadia'),
+          ('rocket', 'http://peregrinations.sebian.fr'),
           ('rss', '//blog.sebian.fr/feeds/all.rss.xml'),
-         )
+          )
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['gravatar', 'neighbors']
@@ -61,4 +61,4 @@ EXTRA_PATH_METADATA = {
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
