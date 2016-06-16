@@ -45,6 +45,7 @@ SOCIAL = (('twitter-square', 'https://twitter.com/sebastienbadia'),
           ('paperclip', 'http://sebastien.badia.fr'),
           ('github', 'https://github.com/sbadia'),
           ('rocket', 'http://peregrinations.sebian.fr'),
+          ('lock', 'https://keybase.io/sbadia'),
           ('rss', '//blog.sebian.fr/feeds/all.rss.xml'),
           )
 
