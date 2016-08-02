@@ -42,7 +42,7 @@ MENUITEMS = (('Archives', '//blog.sebian.fr/archives.html'),
 # http://fontawesome.io/icons/ (just remove « fa- »
 SOCIAL = (('twitter-square', 'https://twitter.com/sebastienbadia'),
           ('instagram', 'https://instagram.com/sebybi'),
-          ('paperclip', 'http://sebastien.badia.fr'),
+          ('bicycle', 'https://www.strava.com/athletes/sebian'),
           ('github', 'https://github.com/sbadia'),
           ('rocket', 'http://peregrinations.sebian.fr'),
           ('lock', 'https://keybase.io/sbadia'),
