@@ -38,7 +38,10 @@ clean:
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-serve:
+web:
+	@sensible-browser http://localhost:8000/
+
+serve: html web
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 
 devserver:
