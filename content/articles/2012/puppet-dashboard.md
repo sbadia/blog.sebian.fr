@@ -27,4 +27,4 @@ Pour le reporting, il suffit d'activer (report = true sur les clients) et pour l
     method find
     allow *
 
-![puppet dashboard]({filename}/images/dashboard.png)
+![puppet dashboard]({static}/images/dashboard.png)

@@ -15,8 +15,8 @@ Grâce au site [Rasterbator](http://homokaasu.org/rasterbator/), nous avons donc
 
 Je vous laisse admirer le résultat :D
 
-![asrall-posters]({filename}/images/asrall-poster.jpg)
+![asrall-posters]({static}/images/asrall-poster.jpg)
 
-![asrall-posters2]({filename}/images/asrall-poster2.jpg)
+![asrall-posters2]({static}/images/asrall-poster2.jpg)
 
 J'ai mis quelques photos en haute résolution [ici](http://badia.fr/img/asrall/).

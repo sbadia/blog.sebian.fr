@@ -82,8 +82,8 @@ Une fois tous les réglages effectués on enregistre la config avec "Enregistrer
 
 On redémarre ensuite le switch pour voir passer sa configuration...
 
-![baystack-self]({filename}/images/baystack-Self.png)
+![baystack-self]({static}/images/baystack-Self.png)
 
 Et voila maintenant le superbe menu du Baystack 350T.
 
-![baystack-menu]({filename}/images/baystack-Menu.png)
+![baystack-menu]({static}/images/baystack-Menu.png)

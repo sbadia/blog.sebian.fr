@@ -7,7 +7,7 @@ Tags: Debian, Mini-DebConf, Paris
 Slug: debian-mini-debconf
 Modified: 2014-02-23 17:07
 
-![Mini-debconf-paris.png]({filename}/images/Mini-debconf-paris.png)
+![Mini-debconf-paris.png]({static}/images/Mini-debconf-paris.png)
 
 Le 30 - 31 octobre dernier s'est tenu à paris la première [mini-DebConf française](http://wiki.debconf.org/wiki/Miniconf-Paris/2010), c'était un événement très interessant de part la nature des conférences, mais c'était aussi l'occasion de rencontrer les développeurs debian en vrai !
 
