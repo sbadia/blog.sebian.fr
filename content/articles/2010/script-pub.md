@@ -17,9 +17,9 @@ Créer un fichier *~/.pubrc*
 
     :::bash
     # ~/.pubrc
-    TARGETHOST="sebianw"
+    TARGETHOST="sebian"
     TARGETDIR="/var/www/pub/"
-    PUBBASE="http://sebian.yasaw.net/pub/"
+    PUBBASE="https://screwy.me/~sebian/"
 
 > sebianw est un host bien configuré dans mon *~/.ssh/config*
 
@@ -36,8 +36,8 @@ Et c'est parti !
 
     :::console
     pub /usr/local/bin/pub
-    > http://sebian.yasaw.net/pub/pub size:11366 hash:9890b44152dba310d98d339acc7b0aea
+    > https://screwy.me/~sebian/pub size:11440 hash:4a0634d4c8cf3e1609ea330da947027b
 
-Le script en question est ici [http://sebian.yasaw.net/pub/pub](http://sebian.yasaw.net/pub/pub), n'hesitez pas à regarder les options (doc dans le script).
+Le script en question est ici [https://screwy.me/~sebian/pub](https://screwy.me/~sebian/pub), n'hesitez pas à regarder les options (doc dans le script).
 
 Merci à [Lucas](http://www.lucas-nussbaum.net/) pour sa découverte/utilisation/transmission !
