@@ -24,7 +24,7 @@ DEFAULT_CATEGORY = 'Asrall'
 # Feed generation is usually not desired when developing
 TRANSLATION_FEED_ATOM = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 # Retro-compat with my Old WP setup
 ARTICLE_URL = '{slug}/'
