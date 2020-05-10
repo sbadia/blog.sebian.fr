@@ -45,7 +45,7 @@ SOCIAL = (('twitter-square', 'https://twitter.com/sebastienbadia'),
           ('bicycle', 'https://www.strava.com/athletes/sebian'),
           ('github', 'https://github.com/sbadia'),
           ('rocket', 'http://peregrinations.sebian.fr'),
-          ('lock', 'https://keybase.io/sbadia'),
+          ('lock', '//sebian.fr/sbadia.asc'),
           ('rss', '//blog.sebian.fr/feeds/all.rss.xml'),
           )
 
@@ -57,6 +57,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/keybase.txt': {'path': 'keybase.txt'},
+    'extra/sbadia.asc': {'path': 'sbadia.asc'},
     }
 
 DEFAULT_PAGINATION = 10
