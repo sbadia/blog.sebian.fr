@@ -35,13 +35,12 @@ MENUITEMS = (('Archives', '//blog.sebian.fr/archives.html'),
              ('LDN', 'http://ldn-fai.net'),
              ('FFDN', 'http://www.ffdn.org/'),
              ('Gitoyen', 'http://gitoyen.net/'),
-             ('ASRALL', 'http://planet.asrall.fr'),
+             ('Globenet', 'https://www.globenet.org/'),
              )
 
 # Social widget
 # http://fontawesome.io/icons/ (just remove « fa- »
-SOCIAL = (('fab fa-twitter', 'https://twitter.com/sebastienbadia'),
-          ('fab fa-mastodon', 'https://mstdn.fr/@sebian'),
+SOCIAL = (('fab fa-mastodon', 'https://mstdn.fr/@sebian'),
           ('fab fa-github', 'https://github.com/sbadia'),
           ('fas fa-key', '//sebian.fr/sbadia.asc'),
           ('fas fa-rss', '//blog.sebian.fr/feeds/all.rss.xml'),
