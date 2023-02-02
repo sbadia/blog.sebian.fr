@@ -1,6 +1,6 @@
 Title: OpenStack block migration
 Date: 2014-08-06 04:14
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Tips
 Tags: OpenStack, Nova, Libvirt, Qemu

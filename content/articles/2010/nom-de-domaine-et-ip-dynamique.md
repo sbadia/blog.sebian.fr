@@ -1,6 +1,6 @@
 Title: Nom de domaine et ip Dynamique
 Date: 2010-03-12 08:46
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: sebian, Serveur, Tips

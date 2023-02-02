@@ -1,6 +1,6 @@
 Title: Supprimer un uid GPG
 Date: 2013-10-10 23:03
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Cloud engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Tips
 Tags: gpg

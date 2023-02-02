@@ -1,6 +1,6 @@
 Title: Retour sur le FOSDEM 2016 (oui plutôt tardif…)
 Date: 2016-04-02 11:01
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @RedHat.
 Category: Seb
 Tags: fosdem, confs, dev

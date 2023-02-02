@@ -1,6 +1,6 @@
 Title: Debian sur un Dell E6510
 Date: 2010-09-13 23:25
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Dell E6510, Debian

@@ -1,6 +1,6 @@
 Title: Synergy et c'est parti !
 Date: 2010-05-25 23:55
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Tips

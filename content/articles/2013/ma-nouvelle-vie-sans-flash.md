@@ -1,6 +1,6 @@
 Title: Ma nouvelle vie sans flash
 Date: 2013-02-07 02:56
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: iceweasel, flash

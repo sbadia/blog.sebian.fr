@@ -1,6 +1,6 @@
 Title: Memo: Keytab Kerberos
 Date: 2015-08-26 18:03
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @RedHat, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Slug: keytab

@@ -1,6 +1,6 @@
 Title: LDN BGP - Two AS one server
 Date: 2016-01-11 11:53
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @RedHat.
 Category: Asrall
 Tags: BGP, LDN, AS, ARN, routing, bird

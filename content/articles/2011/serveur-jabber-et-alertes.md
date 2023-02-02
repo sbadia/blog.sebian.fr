@@ -1,6 +1,6 @@
 Title: Serveur jabber et alertes
 Date: 2011-01-19 00:18
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: xmpp, jabber
@@ -35,14 +35,14 @@ Et on ajoute un utilisateur
 
 ## Alertes Jabber
 
-Test du paquet sendxmpp (c'est du perl).  
+Test du paquet sendxmpp (c'est du perl).
 
     :::console
     apt-get install sendxmpp
     echo "notifications@sebian.fr mdp" > .sendxmpprc
     chmod 600 .sendxmpprc
 
-Premier test  
+Premier test
 
     :::console
     df -h | sendxmpp -t -s "df sur le serveur jabber" seb@sebian.fr

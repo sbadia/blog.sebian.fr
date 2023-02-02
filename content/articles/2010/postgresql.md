@@ -1,6 +1,6 @@
 Title: Premiers pas avec PostgreSql
 Date: 2010-02-14 14:13
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Asrall
 Tags: Serveur, Tips

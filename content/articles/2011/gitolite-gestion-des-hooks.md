@@ -1,6 +1,6 @@
 Title: Gitolite gestion des hooks
 Date: 2011-10-29 17:32
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: git, gitolite, hooks

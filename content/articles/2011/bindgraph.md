@@ -1,6 +1,6 @@
 Title: BindGraph
 Date: 2011-04-24 20:48
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: bind, graph, supervison
@@ -25,7 +25,7 @@ Sur mon vserver dns, j'ajoute dans le fichier */etc/bind/named.conf.local*
       };
     };
 
-C'est le moment d'installer le paquet.  
+C'est le moment d'installer le paquet.
 
     :::console
     apt-get install bindgraph

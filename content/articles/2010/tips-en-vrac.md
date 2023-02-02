@@ -1,6 +1,6 @@
 Title: Tips en vrac...
 Date: 2010-05-10 22:04
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Tips

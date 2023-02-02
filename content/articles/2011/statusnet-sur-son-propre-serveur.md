@@ -1,6 +1,6 @@
 Title: Statusnet sur son propre serveur
 Date: 2011-06-13 14:20
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: statusnet, xmpp

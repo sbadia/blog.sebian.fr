@@ -1,6 +1,6 @@
 Title: Tips GIT: nom de la remote par défaut différent de « master »
 Date: 2016-04-02 12:01
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @RedHat.
 Category: Asrall
 Tags: git, remote, master, tips

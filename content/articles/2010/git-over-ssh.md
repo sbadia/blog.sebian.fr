@@ -1,6 +1,6 @@
 Title: Git over Ssh
 Date: 2010-10-23 12:07
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: git, ssh

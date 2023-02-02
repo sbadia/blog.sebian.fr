@@ -1,6 +1,6 @@
 Title: Linux sur disque SSD
 Date: 2011-10-09 22:13
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: debian, linux, SSD

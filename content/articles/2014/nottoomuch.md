@@ -1,6 +1,6 @@
 Title: Gestion du carnet d'adresses avec Mutt
 Date: 2014-05-22 23:00
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Cloud engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Tags: Mutt, Abook, Notmuch, Nottoomuch

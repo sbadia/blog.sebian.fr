@@ -1,6 +1,6 @@
 Title: Vous vous perdez dans les man-pages?
 Date: 2010-02-14 14:26
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Tips

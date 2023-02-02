@@ -1,6 +1,6 @@
 Title: Le mirror GIT du pauvre (remotes multi URL)
 Date: 2016-01-13 10:31
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @RedHat.
 Category: Asrall
 Tags: git, mirror

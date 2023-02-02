@@ -1,6 +1,6 @@
 Title: Enceinte portable bluetooth et pulseaudio
 Date: 2015-08-26 07:00
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @RedHat, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Slug: enceinte-bluetooth

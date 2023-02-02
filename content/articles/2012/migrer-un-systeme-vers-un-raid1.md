@@ -1,6 +1,6 @@
 Title: Migrer un système vers un Raid1
 Date: 2012-01-12 23:34
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: lvm, mdadm, raid
@@ -96,7 +96,7 @@ Après reboot (si tout s'est bien passé), on peux intégrer l'ancien disque dan
     :::console
     mdadm --add /dev/md0 /dev/sda1 && mdadm --add /dev/md1 /dev/sda2
 
-Et observer la reconstruction  
+Et observer la reconstruction
 
     :::console
     cat /proc/mdstat

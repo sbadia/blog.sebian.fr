@@ -1,6 +1,6 @@
 Title: Diagnostiquer tel un Dr.House
 Date: 2014-08-24 15:11
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Tags: Diagnostic, Informatique, Debug

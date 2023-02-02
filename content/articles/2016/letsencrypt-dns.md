@@ -1,6 +1,6 @@
 Title: Let's Encrypt using DNS challenge
 Date: 2016-07-08 18:00
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Network and System engineer
 Category: Asrall
 Tags: ssl , https ,dns, letsencrypt

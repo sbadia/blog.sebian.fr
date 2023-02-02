@@ -1,6 +1,6 @@
 Title: Poussière
 Date: 2018-02-09 08:00
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Infrastructure engineer
 Category: Seb
 Tags: life, time, blog

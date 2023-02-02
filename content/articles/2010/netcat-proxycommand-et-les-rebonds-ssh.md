@@ -1,6 +1,6 @@
 Title: Netcat, ProxyCommand et les rebonds Ssh
 Date: 2010-08-16 23:26
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Réseau, Serveur, Ssh

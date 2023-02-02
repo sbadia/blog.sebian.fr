@@ -1,6 +1,6 @@
 Title: Salon xmpp ASRALL
 Date: 2013-04-10 12:02
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Asrall
 Tags: asrall, jabber, xmpp

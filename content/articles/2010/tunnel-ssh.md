@@ -1,6 +1,6 @@
 Title: Tunnel Ssh
 Date: 2010-08-16 23:36
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Réseau, Ssh, Tips

@@ -1,6 +1,6 @@
 Title: Gitolite, management de repo git
 Date: 2011-04-29 01:18
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: debian, git, gitolite
@@ -64,7 +64,7 @@ Pour la configuration coté client on peux commencer par configurer un host dans
       Port 666
       IdentityFile /home/%u/.ssh/id_dsa
 
-On se connecte ensuite afin de voir nos repository et nos droits.  
+On se connecte ensuite afin de voir nos repository et nos droits.
 
     :::console
     ssh gitldn

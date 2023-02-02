@@ -1,6 +1,6 @@
 Title: Map Vim
 Date: 2010-02-14 14:10
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Tips

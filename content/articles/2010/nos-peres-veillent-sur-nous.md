@@ -1,6 +1,6 @@
 Title: Nos pères veillent sur nous...
 Date: 2010-04-08 22:25
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Asrall
 Tags: Asrall, Debian, GNU, vie

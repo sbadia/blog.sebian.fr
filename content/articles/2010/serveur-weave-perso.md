@@ -1,6 +1,6 @@
 Title: Serveur Weave Perso
 Date: 2010-09-29 02:02
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Mozilla, Serveur, Tips

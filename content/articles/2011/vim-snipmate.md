@@ -1,6 +1,6 @@
 Title: Vim SnipMate
 Date: 2011-04-29 08:23
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: snippet, vim

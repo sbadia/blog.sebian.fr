@@ -1,6 +1,6 @@
 Title: Une alternative à Rancid :: Sweet
 Date: 2014-08-30 12:15
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Tags: Rancid, Sweet, Backup, Network

@@ -1,6 +1,6 @@
 Title: KeySigning Party
 Date: 2014-05-22 20:00
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Cloud engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Tags: GPG, KeySigning, PDF

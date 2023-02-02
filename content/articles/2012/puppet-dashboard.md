@@ -1,6 +1,6 @@
 Title: Puppet dashboard
 Date: 2012-01-11 01:37
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: puppet

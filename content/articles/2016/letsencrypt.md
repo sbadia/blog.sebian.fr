@@ -1,6 +1,6 @@
 Title: Yet another tutorial about Let's Encrypt
 Date: 2016-03-07 20:00
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @RedHat.
 Category: Asrall
 Tags: ASRALL, https, letsencrypt

@@ -1,6 +1,6 @@
 Title: Les Magic Sys Keys
 Date: 2010-02-14 14:04
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Asrall
 Tags: Debian, Tips

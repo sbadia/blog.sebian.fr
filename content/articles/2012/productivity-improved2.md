@@ -1,6 +1,6 @@
 Title: Productivity improved2
 Date: 2012-12-24 02:50
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: git, mutt, orgmode, repup, taskwarrior, TODO, vim

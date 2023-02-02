@@ -1,6 +1,6 @@
 Title: Prosopopee ♥
 Date: 2016-08-16 08:00
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Network and System engineer
 Category: Asrall
 Tags: photo, galery, python

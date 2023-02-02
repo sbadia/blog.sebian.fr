@@ -1,6 +1,6 @@
 Title: Downtime
 Date: 2011-03-05 23:04
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Asrall
 Tags: downtime, asrall, sebian

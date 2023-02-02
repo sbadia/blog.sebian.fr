@@ -1,6 +1,6 @@
 Title: OpenContrail developper of the month
 Date: 2014-05-01 20:32
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Cloud engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Seb
 Tags: OpenContrail, Debian

@@ -1,6 +1,6 @@
 Title: Puppet OpenStack core reviewer !
 Date: 2014-03-26 20:32
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Cloud engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Seb
 Tags: OpenStack, Puppet, Stackforge

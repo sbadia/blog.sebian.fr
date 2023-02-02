@@ -1,6 +1,6 @@
 Title: Rescan bus ahci/sata & disques « hot-swap »
 Date: 2014-08-08 12:05
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Tags: Ahci, Sata, HotSwap, HDD

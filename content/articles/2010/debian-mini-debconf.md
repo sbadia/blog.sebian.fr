@@ -1,6 +1,6 @@
 Title: Debian Mini-DebConf
 Date: 2010-11-10 09:25
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Seb
 Tags: Debian, Mini-DebConf, Paris

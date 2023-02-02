@@ -1,6 +1,6 @@
 Title: Productivity improved
 Date: 2012-12-21 01:05
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: awesome, pentadactyl, powerline, prezto, tabbedex, tomorrow, urxvt, vim, vundle

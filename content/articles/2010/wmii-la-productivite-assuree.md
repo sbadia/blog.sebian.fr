@@ -1,6 +1,6 @@
 Title: Wmii, la productivité assurée
 Date: 2010-02-14 14:19
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Tips, Wmii

@@ -1,6 +1,6 @@
 Title: IPv6, NetworkManager et vie privée
 Date: 2016-06-19 14:02
-Author: Sebastien Badia
+Author: Sebastien
 About_author: System and network administrator.
 Category: Asrall
 Tags: IPv6, NetworkManager, Privacy

@@ -1,6 +1,6 @@
 Title: Lancement Planet Asrall
 Date: 2010-12-13 00:21
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Asrall
 Tags: Asrall, Blog, Planet

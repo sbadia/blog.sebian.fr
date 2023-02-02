@@ -1,6 +1,6 @@
 Title: Rancid GIT et scripts custom
 Date: 2014-08-30 10:05
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Engineer @eNovance, Puppet addict and Net Neutrality defender.
 Category: Asrall
 Tags: Rancid, GIT, Custom, Expect, TCL

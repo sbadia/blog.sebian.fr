@@ -1,6 +1,6 @@
 Title: Vserver c'est le bonheur !
 Date: 2010-02-14 14:39
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Serveur, Virtualisation

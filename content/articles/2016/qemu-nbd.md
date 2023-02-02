@@ -1,6 +1,6 @@
 Title: Memo: Monter une image qcow2
 Date: 2016-06-18 11:03
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Network and System Engineer.
 Category: Asrall
 Tags: system, qemu

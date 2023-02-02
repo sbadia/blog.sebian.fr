@@ -1,6 +1,6 @@
 Title: Bug plutôt gênant de flickering avec le noyau 4.6.x
 Date: 2016-06-25 11:03
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Network and System Engineer.
 Category: Asrall
 Tags: system, linux, debian

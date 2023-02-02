@@ -1,6 +1,6 @@
 Title: Console sur le port série
 Date: 2010-03-11 15:35
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: console, tty, serie, switchs

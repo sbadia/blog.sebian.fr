@@ -1,6 +1,6 @@
 Title: Ganglia
 Date: 2010-02-14 14:36
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: Debian, Serveur, Supervision

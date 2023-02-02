@@ -1,6 +1,6 @@
 Title: Script pub !
 Date: 2010-12-14 14:51
-Author: Sebastien Badia
+Author: Sebastien
 About_author: ASRALL Student
 Category: Tips
 Tags: pub, script, Tips

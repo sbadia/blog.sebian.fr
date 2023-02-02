@@ -1,6 +1,6 @@
 Title: Re-root android suite à une mise à jour (4.3) (adb « error: closed »)
 Date: 2013-08-12 18:50
-Author: Sebastien Badia
+Author: Sebastien
 About_author: Sys/Net admin engineer @Inria, LDN Co-founder.
 Category: Tips
 Tags: android
